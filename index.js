@@ -1,4 +1,3 @@
-
 import bank from "./questionbank.json" assert { type: "json" };
 
 const quizWrapper = document.getElementById("quiz");
